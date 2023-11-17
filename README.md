@@ -4,7 +4,7 @@
 
 ## Descrizione del Progetto
 
-YourTravelDesigner è un'applicazione mobile sviluppata con React Native per il frontend e ExpressJS con MongoDB per il backend. Il progetto si inserisce nel settore del turismo e offre una piattaforma che funge da punto di riferimento per agenzie e tour operator.
+YourTravelDesigner è un'applicazione sviluppata con React Native per il frontend e ExpressJS con MongoDB per il backend. Il progetto si inserisce nel settore del turismo e offre una piattaforma che funge da punto di riferimento per agenzie e tour operator.
 
 ## Funzionalità Principali
 
