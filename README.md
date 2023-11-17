@@ -1,6 +1,6 @@
 # YourTravelDesigner - Applicazione di Viaggi
 
-![Logo](https://extraordinary-crisp-89cbee.netlify.app/static/media/logo.a459f4ca6dacfbb2478883c30339f679.svg)
+<img src="https://extraordinary-crisp-89cbee.netlify.app/static/media/logo.a459f4ca6dacfbb2478883c30339f679.svg" alt="Logo" width="200">
 
 ## Descrizione del Progetto
 
