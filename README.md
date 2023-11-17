@@ -24,8 +24,6 @@ YourTravelDesigner è un'applicazione mobile sviluppata con React Native per il 
 
 ## Istruzioni per l'Installazione
 
-## Istruzioni per l'Installazione
-
 1. **Frontend:**
     ```bash
     git clone https://github.com/Nikivyro/YourTravelDesignerFE.git
@@ -47,6 +45,9 @@ L'applicazione è attualmente disponibile in versione live su Netlify. Puoi acce
 
 ## Contatti
 Autore: Nikolaas Van Asselt
+
 Email: nikivyro@gmail.com
+
 Linkedin: [profilo](https://www.linkedin.com/in/nikolaas-van-asselt-526b4719b/)
+
 Grazie per aver scelto YourTravelDesigner per il tuo progetto di viaggio!
