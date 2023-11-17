@@ -24,19 +24,23 @@ YourTravelDesigner è un'applicazione mobile sviluppata con React Native per il 
 
 ## Istruzioni per l'Installazione
 
+## Istruzioni per l'Installazione
+
 1. **Frontend:**
-   ```bash
-   git clone https://github.com/Nikivyro/YourTravelDesignerFE.git
-   cd YourTravelDesignerFE
-   npm install
-   npm start
+    ```bash
+    git clone https://github.com/Nikivyro/YourTravelDesignerFE.git
+    cd YourTravelDesignerFE
+    npm install
+    npm start
+    ```
 
 2. **Backend:**
-   ```bash
-  git clone https://github.com/Nikivyro/YourTravelDesignerBE.git
-  cd YourTravelDesignerBE
-  npm install
-  node server.js
+    ```bash
+    git clone https://github.com/Nikivyro/YourTravelDesignerBE.git
+    cd YourTravelDesignerBE
+    npm install
+    node server.js
+    ```
 
 ## Link al Deploy
 L'applicazione è attualmente disponibile in versione live su Netlify. Puoi accedervi [qui](https://extraordinary-crisp-89cbee.netlify.app/).
