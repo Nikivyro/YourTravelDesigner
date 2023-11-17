@@ -1,6 +1,6 @@
 # YourTravelDesigner - Applicazione di Viaggi
 
-![Logo](link_al_tuo_logo.png)
+![Logo](https://extraordinary-crisp-89cbee.netlify.app/static/media/logo.a459f4ca6dacfbb2478883c30339f679.svg)
 
 ## Descrizione del Progetto
 
@@ -43,6 +43,10 @@ YourTravelDesigner è un'applicazione mobile sviluppata con React Native per il 
 ## Link al Deploy
 L'applicazione è attualmente disponibile in versione live su Netlify. Puoi accedervi [qui](https://extraordinary-crisp-89cbee.netlify.app/).
 
+## Credits
+Fonti fotografiche e parzialmente descrittive - [Unsplash](https://unsplash.com/it) , [Freepik](http://freepik.com/), [GetYourGuide](https://www.getyourguide.it/) 
+Progetto solo a scopo dimostrativo didattico
+
 ## Contatti
 Autore: Nikolaas Van Asselt
 
@@ -50,4 +54,3 @@ Email: nikivyro@gmail.com
 
 Linkedin: [profilo](https://www.linkedin.com/in/nikolaas-van-asselt-526b4719b/)
 
-Grazie per aver scelto YourTravelDesigner per il tuo progetto di viaggio!
