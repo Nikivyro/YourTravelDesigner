@@ -8,7 +8,7 @@ YourTravelDesigner è un'applicazione mobile sviluppata con React Native per il 
 
 ## Funzionalità Principali
 
-- **Ricerca Globale:** Effettua ricerche globali inserendo il paese o la città specifica per trovare tour, pacchetti o itinerari.
+- **Ricerca Globale:** Effettua ricerche globali inserendo la città specifica per trovare tour, pacchetti o itinerari.
 
 - **Filtraggio:** Filtra i risultati in base alle tue preferenze, ottenendo una selezione personalizzata di esperienze di viaggio.
 
